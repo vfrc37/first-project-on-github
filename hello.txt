@@ -1,2 +1,5 @@
-print('Hello world!...');
-print('Hello everybody!...');
+print('Hello world!');
+print('Hello everybody!');
+print('Hello my dear friend!');
+print('Glad to see you!');
+aaa
